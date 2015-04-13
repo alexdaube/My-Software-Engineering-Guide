@@ -1,2 +1,4 @@
 # My-Software-Engineering-Guide
-For personal references.
+This guide is created through my studies and personal experiences through projects.
+
+By @alexdaube
